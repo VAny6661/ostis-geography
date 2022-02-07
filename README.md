@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Version 0.6.0
 
 This version allows communication with the knowledge base via [JSON-based Websocket protocol](http://ostis-dev.github.io/sc-machine/http/websocket/).
@@ -116,7 +115,3 @@ Install or update the OSTIS platform.
 
 #### install_subsystems.sh
 Building a problem solver and a knowledge base of subsystems.
-=======
-# ostis-geography
-KB sources of OSTIS Geography project
->>>>>>> e16bd7b89bd1eb876c1c88fb5dcd279786be8b63
